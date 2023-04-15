@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Synthentical_Financial_DataSET">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-LCH9DVR\SQLEXPRESS;Initial Catalog=FRAUD_COSTOMER_ANALYSIS</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>074d4627-afb7-4a3d-bc32-5201d27fbb20</DataSourceID>
+</RptDataSource>

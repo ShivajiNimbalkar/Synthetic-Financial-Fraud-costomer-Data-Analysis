@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Synthetic Financial Fraud costomer Data Analysis", "Synthetic Financial Fraud costomer Data Analysis.rptproj", "{244CCB2E-F8D3-492E-B360-9092E70C67AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244CCB2E-F8D3-492E-B360-9092E70C67AD}.Debug|Default.ActiveCfg = Debug
+		{244CCB2E-F8D3-492E-B360-9092E70C67AD}.Debug|Default.Build.0 = Debug
+		{244CCB2E-F8D3-492E-B360-9092E70C67AD}.Debug|Default.Deploy.0 = Debug
+		{244CCB2E-F8D3-492E-B360-9092E70C67AD}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{244CCB2E-F8D3-492E-B360-9092E70C67AD}.DebugLocal|Default.Build.0 = DebugLocal
+		{244CCB2E-F8D3-492E-B360-9092E70C67AD}.Release|Default.ActiveCfg = Release
+		{244CCB2E-F8D3-492E-B360-9092E70C67AD}.Release|Default.Build.0 = Release
+		{244CCB2E-F8D3-492E-B360-9092E70C67AD}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF994416-E4BB-4D49-AAC2-9501EDDD2971}
+	EndGlobalSection
+EndGlobal
